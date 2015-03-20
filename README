@@ -1,3 +1,15 @@
+This was forked from monero-python.
+I added a very basic cli gui for testing monero wallet easily from cli.
+
+Useage:
+run "python gui.py"
+choose b to configure your rpc connection settings for wallet and daemon
+
+run one of the 1-x commands.
+
+
+
+See the original description for more info:
 monero-python is a Python wrapper around the Monero RPC API.
 It allows receiving and sending Monero using a Python API.
 Copyright 2014, 2015 moneromooo. Licensed as BSD.
